@@ -1,2 +1,2 @@
-# itsarepositorynameeofcalculatorinehritanceee
+# inheritancecalculator
 inheritance calculator 
